@@ -1,0 +1,12 @@
+body{
+	
+	font-family: arial;
+	border: 1px black ;
+	padding: 50px;
+}
+h1{border-bottom:  black solid 2px;
+font-size: 50px	
+}
+	
+h3{ border-bottom: black solid thin;	
+}
